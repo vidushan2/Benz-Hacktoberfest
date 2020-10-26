@@ -25,7 +25,7 @@ public class MergeSort {
 
     }
 
-    private int[] merge(int[] right,int[] left,int[] arr)
+    private int[] merge(int[] right,int[] left)
     {
 
         int r,l,k;
